@@ -32,9 +32,13 @@ Follow these steps to set up and use the DistractionFreed YouTube Player:
 3. **Run the Application**  
    - Open `index.html` in a browser  
    - Paste a YouTube video URL in the input box  
-   - Click **Load Video** to start playing  
+   - Click **Load Video** to start playing
 
-4. **Enjoy Distraction-Free Viewing!**  
+4. **Adjust Zoom for Optimal Viewing**  
+   - 💻 **15.6" - 16" laptops:** Recommended zoom **110%**  
+   - 🖥️ **17.3" - 18" laptops:** Recommended zoom **150%**
+
+5. **Enjoy Distraction-Free Viewing!**  
    - Works with **timestamped links** (e.g., `?t=60` starts at 1:00)  
    - Click **Fullscreen** for a theater-like experience  
 

@@ -1,4 +1,4 @@
-# Distraction-Free YouTube Player
+# DistractionFreed YouTube Player
 
 A simple web application that lets you watch YouTube videos without distractions. Enter a YouTube URL (including timestamped links) and enjoy a clutter-free viewing experience with a sleek, dark-themed interface.
 
@@ -7,7 +7,6 @@ A simple web application that lets you watch YouTube videos without distractions
 ## 🚀 Features  
 - 🎥 **Minimalistic distraction-free UI** – No unnecessary elements, just the video  
 - ⏳ **Supports timestamped links** – Start videos exactly where you want  
-- 🔲 **Dark mode interface** – Reduces eye strain and enhances focus  
 - 🔄 **Responsive design** – Works across all screen sizes  
 - 🔎 **No preloaded videos** – Only plays what you enter  
 - 🖥️ **Fullscreen support** – Expand the player for an immersive experience  
